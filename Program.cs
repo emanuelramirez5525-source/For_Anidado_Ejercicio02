@@ -1,0 +1,1 @@
+﻿// Mostrar un rectángulo de 4 filas y 6 columnas con asteriscos.
